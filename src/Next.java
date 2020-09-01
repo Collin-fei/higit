@@ -1,8 +1,8 @@
 /**
  * Created by Administrator on 2020/9/1.
  */
-public class Higit {
+public class Next {
     public static void main(String[] args) {
-        System.out.println("随便改改s");
+        System.out.println("....");
     }
 }
